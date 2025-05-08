@@ -24,9 +24,9 @@ def horario_para_minutos(hora):
 def preencher_colunas_faltantes(dia, horario_min):
     # Preenchendo com valores padrão ou cálculos (ajuste conforme necessário)
     return {
-        'Lotação (%)': 50,  # Exemplo: Preencher com valor fixo ou calcular
-        'Horário_min': horario_min,
-        'Atraso (min)': 5  # Exemplo: Preencher com valor fixo ou calcular
+        'Lotacao': 50,  # Exemplo: Preencher com valor fixo ou calcular
+        'Horario_min': horario_min,
+        'Atraso': 5  # Exemplo: Preencher com valor fixo ou calcular
     }
 
 # Definindo rotas (URLs) e associando-as a funções Python
@@ -55,9 +55,9 @@ def predict():
     entrada = pd.DataFrame({
         'Dia da Semana': [dia],
         'Hora_arredondada': [horario_min],
-        'Lotação (%)': [colunas_faltantes['Lotação (%)']],
-        'Horário_min': [colunas_faltantes['Horário_min']],
-        'Atraso (min)': [colunas_faltantes['Atraso (min)']]
+        'Lotacao': [colunas_faltantes['Lotacao']],
+        'Horario_min': [colunas_faltantes['Horario_min']],
+        'Atraso': [colunas_faltantes['Atraso']]
     })
 
     # Fazendo a previsão com o modelo
