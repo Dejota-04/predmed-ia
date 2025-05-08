@@ -29,3 +29,5 @@ set FLASK_DEBUG=1
 flask run
 ```
 
+Depois é só rodar o `index.html` direto e testar :)
+
