@@ -1,0 +1,90 @@
+#;Horário;TMP (min);Dia da Semana;Lotação (%);Atraso (min);Estação;Tipo de Trem
+0;05:00;12.0;Domingo;30.0;1.0;Barra Funda;Novo
+1;06:30;14.0;Domingo;45.0;2.0;Júlio Prestes;Antigo
+2;08:00;20.0;Domingo;85.0;6.0;Osasco;Novo
+3;09:15;18.0;Domingo;75.0;4.0;Presidente Altino;Antigo
+4;10:45;13.0;Domingo;60.0;3.0;Barueri;Novo
+5;05:00;11.0;Segunda;35.0;1.0;Barra Funda;Novo
+6;06:30;13.0;Segunda;50.0;2.0;Júlio Prestes;Antigo
+7;08:00;19.0;Segunda;80.0;5.0;Osasco;Novo
+8;09:15;17.0;Segunda;70.0;4.0;Presidente Altino;Antigo
+9;10:45;12.0;Segunda;55.0;3.0;Barueri;Novo
+10;05:00;10.5;Terça;40.0;1.0;Barra Funda;Novo
+11;06:30;12.5;Terça;55.0;2.0;Júlio Prestes;Antigo
+12;08:00;18.5;Terça;78.0;5.0;Osasco;Novo
+13;09:15;16.5;Terça;68.0;4.0;Presidente Altino;Antigo
+14;10:45;11.5;Terça;52.0;3.0;Barueri;Novo
+15;05:00;10.0;Quarta;38.0;1.0;Barra Funda;Novo
+16;06:30;12.0;Quarta;53.0;2.0;Júlio Prestes;Antigo
+17;08:00;18.0;Quarta;75.0;5.0;Osasco;Novo
+18;09:15;16.0;Quarta;66.0;4.0;Presidente Altino;Antigo
+19;10:45;11.0;Quarta;50.0;3.0;Barueri;Novo
+20;05:00;9.5;Quinta;36.0;1.0;Barra Funda;Novo
+21;06:30;11.5;Quinta;52.0;2.0;Júlio Prestes;Antigo
+22;08:00;17.5;Quinta;72.0;5.0;Osasco;Novo
+23;09:15;15.5;Quinta;64.0;4.0;Presidente Altino;Antigo
+24;10:45;10.5;Quinta;48.0;3.0;Barueri;Novo
+25;08:00;17.0;Sexta;65.0;4.0;Barra Funda;Novo
+26;09:30;18.0;Sexta;70.0;5.0;Júlio Prestes;Antigo
+27;11:00;16.0;Sexta;60.0;3.0;Osasco;Novo
+28;12:30;14.0;Sexta;50.0;2.0;Presidente Altino;Antigo
+29;14:00;13.0;Sexta;55.0;2.0;Barueri;Novo
+30;15:30;15.5;Sexta;65.0;3.0;Barra Funda;Novo
+31;17:00;20.0;Sexta;80.0;5.0;Júlio Prestes;Antigo
+32;18:30;18.0;Sexta;75.0;4.0;Osasco;Novo
+33;20:00;16.5;Sexta;68.0;3.0;Presidente Altino;Antigo
+34;05:00;11.0;Sábado;40.0;1.0;Barra Funda;Novo
+35;06:30;13.0;Sábado;55.0;2.0;Júlio Prestes;Antigo
+36;08:00;19.0;Sábado;78.0;4.0;Osasco;Novo
+37;09:15;17.0;Sábado;70.0;3.0;Presidente Altino;Antigo
+38;10:45;12.0;Sábado;58.0;2.0;Barueri;Novo
+39;12:15;14.0;Sábado;62.0;2.0;Barra Funda;Novo
+40;13:45;15.5;Sábado;70.0;3.0;Júlio Prestes;Antigo
+41;15:00;18.0;Sábado;75.0;4.0;Osasco;Novo
+42;16:30;16.0;Sábado;65.0;3.0;Presidente Altino;Antigo
+43;18:00;13.5;Sábado;55.0;2.0;Barueri;Novo
+44;19:30;11.5;Sábado;45.0;1.0;Barra Funda;Novo
+45;21:00;10.0;Sábado;38.0;1.0;Júlio Prestes;Antigo
+46;22:30;9.5;Sábado;30.0;0.0;Osasco;Novo
+47;05:00;12.0;Domingo;35.0;1.0;Presidente Altino;Antigo
+48;06:30;14.0;Domingo;50.0;2.0;Barueri;Novo
+49;08:00;18.0;Domingo;65.0;3.0;Barra Funda;Novo
+50;09:30;20.0;Domingo;80.0;5.0;Júlio Prestes;Antigo
+51;11:00;17.0;Domingo;75.0;4.0;Osasco;Novo
+52;12:30;15.0;Domingo;68.0;3.0;Presidente Altino;Antigo
+53;14:00;13.0;Domingo;55.0;2.0;Barueri;Novo
+54;15:30;16.5;Sábado;70.0;4.0;Barra Funda;Novo
+55;17:00;17.0;Sábado;75.0;4.0;Júlio Prestes;Antigo
+56;18:30;15.5;Sábado;65.0;3.0;Osasco;Novo
+57;20:00;13.0;Sábado;50.0;2.0;Presidente Altino;Antigo
+58;21:30;11.0;Sábado;40.0;1.0;Barueri;Novo
+59;23:00;10.0;Sábado;35.0;0.0;Barra Funda;Novo
+60;05:00;12.0;Segunda;38.0;1.0;Júlio Prestes;Antigo
+61;06:30;13.0;Segunda;54.0;2.0;Osasco;Novo
+62;08:00;19.0;Segunda;83.0;5.0;Presidente Altino;Antigo
+63;09:15;17.5;Segunda;74.0;4.0;Barueri;Novo
+64;10:45;12.5;Segunda;56.0;3.0;Barra Funda;Novo
+65;12:15;11.5;Segunda;48.0;2.0;Júlio Prestes;Antigo
+66;13:30;14.0;Segunda;60.0;2.0;Osasco;Novo
+67;15:00;16.0;Segunda;68.0;3.0;Presidente Altino;Antigo
+68;16:30;17.5;Segunda;72.0;4.0;Barueri;Novo
+69;18:00;15.0;Segunda;67.0;3.0;Barra Funda;Novo
+70;19:30;16.0;Segunda;72.0;4.0;Júlio Prestes;Antigo
+71;21:00;14.5;Segunda;60.0;2.0;Osasco;Novo
+72;22:30;13.0;Segunda;52.0;1.0;Presidente Altino;Antigo
+73;23:59;11.0;Segunda;40.0;0.0;Barueri;Novo
+74;05:00;11.5;Terça;36.0;1.0;Barra Funda;Novo
+75;06:30;13.5;Terça;50.0;2.0;Júlio Prestes;Antigo
+76;08:00;18.0;Terça;79.0;5.0;Osasco;Novo
+77;09:15;16.0;Terça;70.0;4.0;Presidente Altino;Antigo
+78;10:45;11.0;Terça;54.0;3.0;Barueri;Novo
+79;12:00;12.5;Terça;49.0;2.0;Barra Funda;Novo
+80;13:30;14.0;Terça;58.0;2.0;Júlio Prestes;Antigo
+81;15:00;16.0;Terça;66.0;3.0;Osasco;Novo
+82;16:30;17.5;Terça;71.0;4.0;Presidente Altino;Antigo
+83;18:00;15.0;Terça;69.0;3.0;Barueri;Novo
+84;19:30;16.0;Terça;74.0;4.0;Barra Funda;Novo
+85;21:00;14.5;Terça;62.0;2.0;Júlio Prestes;Antigo
+86;22:30;13.0;Terça;51.0;1.0;Osasco;Novo
+87;23:59;11.0;Terça;39.0;0.0;Presidente Altino;Antigo
+88;01:00;10.0;Terça;30.0;0.0;Barueri;Novo
