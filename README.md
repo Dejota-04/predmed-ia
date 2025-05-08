@@ -31,3 +31,11 @@ flask run
 
 Depois é só rodar o `index.html` direto e testar :)
 
+
+## Testes com modelos
+
+Eu adicionei varios modelos para testar qual tem o melhor resultado.
+
+os resultados estão na seção:
+
+  `5. Avaliação`
