@@ -39,3 +39,15 @@ Eu adicionei varios modelos para testar qual tem o melhor resultado.
 os resultados estão na seção:
 
   `5. Avaliação`
+
+📊 Comparativo dos Modelos (baseado nos seus resultados):
+
+| Modelo                        | MAE  | RMSE |
+| ----------------------------- | ---- | ---- |
+| **RandomForestRegressor**     | 2.52 | 2.96 |
+| **GradientBoostingRegressor** | 2.64 | 3.14 |
+| **XGBRegressor**              | 2.69 | 3.21 |
+| **KNeighborsRegressor**       | 2.92 | 3.47 |
+
+
+PS: Deixei os comentários apenas no RandomForestRegressor, que foi o modelo que usamos para a produção.

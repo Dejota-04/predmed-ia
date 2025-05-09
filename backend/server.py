@@ -53,12 +53,12 @@ def predict():
 
     # Criando a entrada para o modelo (simulando a estrutura do modelo)
     entrada = pd.DataFrame({
-        'Dia da Semana': [dia],
-        'Hora_arredondada': [horario_min],
-        'Lotacao': [colunas_faltantes['Lotacao']],
-        'Horario_min': [colunas_faltantes['Horario_min']],
-        'Atraso': [colunas_faltantes['Atraso']]
-    })
+    'Dia da Semana': [dia],
+    'Horario_min': [horario_min],
+    'Lotacao': [colunas_faltantes['Lotacao']],
+    'Atraso': [colunas_faltantes['Atraso']]
+})
+
 
     # Fazendo a previsão com o modelo
     previsao = modelo.predict(entrada)
