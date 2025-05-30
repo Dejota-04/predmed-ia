@@ -1,8 +1,0 @@
-# listando as dependencias
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-flask
-flask-cors

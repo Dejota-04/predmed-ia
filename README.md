@@ -50,9 +50,6 @@ predmed/
 │ └── treino_modelo.ipynb # Pré-processamento + Treinamento
 └── README.md
 
-markdown
-Copiar
-Editar
 
 ---
 
@@ -83,30 +80,7 @@ As colunas (features) utilizadas no treinamento do modelo são:
 
 ---
 
-## 🧪 Exemplo de Uso
 
-Após carregar os dados e treinar o modelo, o código exibe:
-
-```bash
-Acurácia: 82%
-Esse valor representa o percentual de previsões corretas feitas pelo modelo com base nos dados de teste.
-
-📄 Licença
-Este projeto é acadêmico, com propósito educativo.
-Você pode adaptar e reutilizar para fins pessoais ou de pesquisa.
-
-🙋‍♂️ Autor
-Desenvolvido por Dejota (Daniel)
-Técnico em Informática | Estudante de TI | Desenvolvedor na Veloon
-GitHub: @Dejota-04
-
-yaml
-Copiar
-Editar
-
----
-
-Se quiser, posso gerar o arquivo `.md` pronto para você baixar ou subir diretamente pro seu repositório GitHub. Deseja isso?
 
 
 
