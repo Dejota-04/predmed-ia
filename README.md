@@ -76,7 +76,7 @@ As colunas (features) utilizadas no treinamento do modelo são:
 - Visitou Locais Públicos  
 - Familiar em Local Público  
 - Uso de Máscaras  
-- Higienização do Mercado
+- Higienização da Área de Trabalho
 
 ---
 
